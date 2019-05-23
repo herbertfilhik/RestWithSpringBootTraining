@@ -1,0 +1,5 @@
+package br.com.herbies;
+
+@SpringBootApplicatoin
+public class Startup {
+}

@@ -2,13 +2,15 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="teste"/>
 			<item value="br.com.herbies"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="herbies"/>
+			<item value="teste"/>
 			<item value="rest-with-spring-herbies"/>
+			<item value="herbies"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -20,6 +22,33 @@
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Projetos_Herbert\RestApiTraining\rest-with-spring-herbies"/>
+			<item value="C:\Projetos_Herbert\RestApiTraining"/>
+			<item value="C:\Projetos_Herbert\RestApiTraining\01RestWithSpringBootCalculator"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
